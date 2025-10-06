@@ -1,0 +1,9 @@
+<html>
+  <head>Crud</crud>
+<body>
+      <form action='/gravar' method='get'>
+
+	<button type='submit'>
+      </form>
+</body>
+</html>
